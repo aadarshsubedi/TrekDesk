@@ -5,8 +5,8 @@ See PRD.md for the problems, users, version 1 features and out of scope.
 
 Status:
 Part A: 
-Level 1: PRD written with the help of Claude
-Level 2: 
+Level 1: PRD.md written with the help of Claude
+Level 2: List of questions and assumption(prd.md) completed with the help of Claude
 
 Part B: 
 
