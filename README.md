@@ -48,7 +48,7 @@ Ans: AI help me from writing the PRD,Readme file to build the project from the s
 4) Name one thing that is working but that you could not fully explain to someone else.
 Ans: The Frontend and Backend ( RetrieveUpdateDeleteAPIView ) are which is working but I couldnot fully explain to someone else.
 
-5)If you had two more days, what would you fix first?
+5) If you had two more days, what would you fix first?
 Ans: If I had two more days, I would improve the Frontend part for the better interface where they can update or delete the booking. Also add the validation part in the frontend side so that it don't need to depend solely on the Backend side.
 
 6) Roughly how many hours did you spend?
